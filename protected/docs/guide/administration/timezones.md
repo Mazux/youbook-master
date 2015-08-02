@@ -1,7 +1,7 @@
 Timezones
 =========
 
-HumHub uses by default the timezone of your PHP/MySQL installation. 
+Youbook uses by default the timezone of your PHP/MySQL installation. 
 
 You can change the application timezone by editing the configuration at ``protected/config/local/_settings.php``.
 
