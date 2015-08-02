@@ -1,11 +1,9 @@
-Welcome to HumHub 
+Welcome to YouBook 
 =================
 
-[![Build Status](https://travis-ci.org/humhub/humhub.svg?branch=master)](https://travis-ci.org/humhub/humhub)
+Youbook is a flexible social networking system written with the Humhumb framework.
 
-HumHub is a flexible open source social network application written in PHP.
-
-- <a href="http://humhub.org" target="_blank">**Homepage & Demo**</a>
+- <a href="http://nekgames.com/youbook" target="_blank">**Learn About Youbook**</a>
 
 - <a href="protected/docs/guide/administration/index.md">Installation & Admin Documentation</a>
 - <a href="protected/docs/guide/developer/index.md">Developer Documentation</a>
