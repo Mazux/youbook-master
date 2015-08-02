@@ -10,7 +10,6 @@ We apologize the the inconvenience. We hope to have everything up and running wi
 
 - The Youbook Team
 - 
-=================
 
 - <a href="http://nekgames.com/youbook" target="_blank">**Learn About Youbook**</a>
 
