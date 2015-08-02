@@ -1,8 +1,9 @@
 <?php
 
 /**
- * HumHub
- * Copyright © 2014 The HumHub Project
+ * Youbook
+ * Copyright © 2015 The Youbook Project
+ * Written with the Humhub Framework
  *
  * The texts of the GNU Affero General Public License with an additional
  * permission and of our proprietary license can be found at and
