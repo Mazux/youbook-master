@@ -8,7 +8,7 @@ The Youbook repository is new and may contain documentational errors - if you ha
 
 We apologize the the inconvenience. We hope to have everything up and running within a few weeks.
 
-- 
+**Resources:**
 
 - <a href="http://nekgames.com/youbook" target="_blank">**Learn About Youbook**</a>
 
