@@ -1,7 +1,7 @@
 Welcome to YouBook 
 =================
 
-Youbook is a flexible social networking system written with the Humhumb framework.
+Youbook is a flexible social networking system written with the Humhub framework.
 
 - <a href="http://nekgames.com/youbook" target="_blank">**Learn About Youbook**</a>
 
