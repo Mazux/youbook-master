@@ -4,13 +4,13 @@ According to our dual licensing model, this program can be used either under the
 
     This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
 
-***Important***
-HumHub is licensed under a dual license. 
-To check which license/edition of HumHub you have installed, please open the "About" dialog in the admin menu.
+***Important:***
+Youbook is licensed under a dual license. 
+To check which license/edition of Youbook you have installed, please open the "About" dialog in the admin menu.
 
-The following terms are important regarding the HumHub Community Edition, licensed under AGPL V3:
+The following terms are important regarding the Youbook Community Edition, licensed under AGPL V3:
 
-        For HumHub community edition which stands under agpl license the following terms are significantly:
+        For Youbook community edition which stands under agpl license the following terms are significantly:
 
                             GNU AFFERO GENERAL PUBLIC LICENSE
                                Version 3, 19 November 2007
