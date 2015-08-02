@@ -8,7 +8,7 @@ The Youbook repository is new and may contain documentational errors - if you ha
 
 We apologize the the inconvenience. We hope to have everything up and running within a few weeks.
 
-**Pre-start information:*
+**Pre-start information:**
 - The youbook documentation includes the "Humhub" documentation
 - Youbook was built with the Humhub social networking framework
 - Youbook is under dual open source lisences, please ensure that you read up on this
